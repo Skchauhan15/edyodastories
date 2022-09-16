@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #cee4f863;
+}
+header {
+  padding: 16px 78px;
+  background-color: white;
+  font-family: "Raleway", sans-serif;
+  position: fixed;
+  width: 100%;
+}
+.logo {
+  width: 130px;
+  font-size: 32px;
+  color: #0084ff;
+  font: bold;
+  font-weight: 900;
+}
+.headcategories {
+  color: #000;
+  margin-top: 0;
+  padding-left: 100px;
+  display: inline-block;
+}
+.stories {
+  margin: 0;
+  font-weight: 500;
+  font-style: italic;
+  display: inline-block;
+}
+#dropdown {
+  border: none;
+}
+.heading {
+  font-weight: 600;
+  margin: 0;
+  padding-left: 100px;
+  color: #000;
+}
+#body {
+  padding: 50px;
+  margin: 0;
+}
+.filtertext {
+  padding-left: 100px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 8px;
+}
+.container {
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding-top: 16px;
+  padding-left: 100px;
+}
+.containerCategories {
+  padding: 6px 14px;
+  width: auto;
+  color: #0084ff;
+  border-radius: 15px;
+  border: 1px solid #0084ff;
+  margin: 5px;
+  cursor: pointer;
+}
+.containerCategories:hover {
+  color: #fff;
+  background-color: #0084ff;
+}
+.item{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.items{
+    display: inline-block;
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  margin: 10px;
+
+}
+.items img {
+  width: 100%;
+  height: 175px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.text-section {
+  padding: 10px 24px;
+  margin: 0;
+  font-weight: 600;
+  text-align: left;
+
+}
+.author {
+  padding: 10px 24px;
+  padding-top: 4px;
+  color: #0096ff;
+  font-weight: 500;
+  font-size: 14px;
+  font-style: italic;
+}
+.date {
+  color: rgba(0, 0, 0, 0, 7);
+  font-size: 14px;
+  font-weight: 300;
+}
+.details {
+    padding: 10px 24px;
+}
+footer{
+    background-color: #172146;
+    padding: 80px 16%;
+}
+footer h3{
+    color: #fff;
+    padding-left: 35%;
+}
